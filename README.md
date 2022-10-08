@@ -1,3 +1,21 @@
+## Requirements
+```
+deeprobust==0.2.4
+dgl==0.4.3
+torch==1.11.0
+ipdb==0.13.2
+scipy==1.8.0
+numpy==1.20.3
+pandas==1.4.1
+torch-geometric==2.0.4
+scikit_learn==1.0.2
+networkx==2.7.1
+```
+
+## Installation
+```
+pip install -r requirements.txt
+```
 # Run codes
 '--runs 10' means that we repeat 10 times 
 
