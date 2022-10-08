@@ -1,3 +1,4 @@
+# Run codes
 ## Requirements
 ```
 deeprobust==0.2.4
@@ -16,10 +17,9 @@ networkx==2.7.1
 ```
 pip install -r requirements.txt
 ```
-# Run codes
-'--runs 10' means that we repeat 10 times 
 
 ## Under Graph Structure Attacks (GSAs)
+'--runs 10' means that we repeat 10 times 
 On different datasets: epochs 201 for cora and citeseer and  301 for pubmed.  
 You can report our results tuning the '--ptb_rate'  
 perturbation rate of meta in [0.05,0.1,0.15,0.2,0.25]  
