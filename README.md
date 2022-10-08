@@ -1,4 +1,3 @@
-# mhr-gcn
 # Run codes
 '--runs 10' means that we repeat 10 times 
 
